@@ -142,7 +142,7 @@ class Net
         catch (IllegalArgumentException e) {
             System.out.println("Invalid date format (expected yyyy-mm-dd): " + values[7]);
             return;
-        }//checking if date and salary are ilegal
+        }//checking if date and salary are illegal
 
 
     
